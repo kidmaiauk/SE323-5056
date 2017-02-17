@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+
+*.ini
+
+*.xml
+
+*.dat
+
+.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache
+
+*.prefs
+
+*.resources
+
+.metadata/.log
+
+.metadata/.lock
+=======
+/bin/
+>>>>>>> origin/master
